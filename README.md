@@ -1,3 +1,3 @@
-# Schema Studio Releases
+# Skimabae Releases
 
-Public release artifacts for Schema Studio.
+Public release artifacts for Skimabae.
